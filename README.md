@@ -1,22 +1,25 @@
-# Dashboard de Vendas da Adidas no Databricks
+# Adidas Sales Dashboard in Databricks
 
-Este projeto explora um conjunto de dados de vendas da Adidas utilizando **Spark SQL** no **Databricks**, com visualizações interativas criadas diretamente no notebook.
+This project explores an Adidas sales dataset using Spark SQL in Databricks, with interactive visualizations created directly in the notebook.
 
-## 📌 Objetivos
-- Analisar produtos mais vendidos por região
-- Entender tendências de receita ao longo do tempo
-- Identificar canais de venda mais lucrativos
+## 📌 Objectives
 
-## 🚀 Tecnologias usadas
-- Databricks
-- Spark SQL
-- Unity Catalog
-- Dashboards interativos (Databricks Notebook)
+* Analyze top-selling products by region
+* Understand revenue trends over time
+* Identify the most profitable sales channels
 
-## 📁 Arquivos
-- `adidas_dashboard.html`: notebook exportado com código e gráficos
-- `README.md`: este arquivo
+## 🚀 Technologies Used
+
+* **Databricks**
+* **Spark SQL**
+* **Unity Catalog**
+* **Interactive dashboards (Databricks Notebook)**
+
+## 📁 Files
+
+* `adidas_dashboard.html`: exported notebook with code and charts
+* `README.md`: this file
 
 ---
 
-**Criado por [Julia](https://www.linkedin.com/in/julia-soares-bento/)** ✨
+**Created by Julia** ✨
